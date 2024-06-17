@@ -1,0 +1,10 @@
+- name: Image Sync Action
+  uses: hhyasdf/image-sync-action@v1.1
+  with:
+    version: latest
+    auth_file: ./auth.yaml
+    images_file: ./images.yaml
+    #arch: amd64
+    #os: linux
+    #proc: optional, default is 5
+    retries: #3
