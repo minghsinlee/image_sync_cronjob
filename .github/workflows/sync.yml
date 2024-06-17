@@ -18,7 +18,9 @@ jobs:
         version: latest
         auth_file: ./auth.yaml
         images_file: ./images.yaml
-        proc: 6
+        #arch: amd64
+        #os: linux
+        proc: 6 # optional, default is 5
         retries: 3
       env:
         ALI_PASSWORD: ${{ secrets.ALI_PASSWORD }}
