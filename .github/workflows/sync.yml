@@ -18,8 +18,8 @@ jobs:
         version: latest
         auth_file: ./auth.yaml
         images_file: ./images.yaml
-        #arch: amd64
-        #os: linux
+        arch: amd64
+        os: linux
         proc: 100
         retries: 3
       env:
