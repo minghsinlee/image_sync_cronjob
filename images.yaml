@@ -3,7 +3,7 @@ apacherocketmq/rocketmq-dashboard:1.0.0: registry.cn-hongkong.aliyuncs.com/cr-ea
 openresty/openresty:1.25.3.1-2-bookworm-fat: registry.cn-hongkong.aliyuncs.com/cr-earth/openresty:1.25.3.1-2-bookworm-fat
 apache/rocketmq:5.2.0: registry.cn-hongkong.aliyuncs.com/cr-earth/rocketmq
 clickhouse/clickhouse-server:24.5.3.5: registry.cn-hongkong.aliyuncs.com/cr-earth/clickhouse-server
-coreos/etcd:v3.5.12: registry.cn-hongkong.aliyuncs.com/cr-earth/etcd
+quay.io/coreos/etcd:v3.5.12: registry.cn-hongkong.aliyuncs.com/cr-earth/etcd
 grafana/grafana:11.0.0: registry.cn-hongkong.aliyuncs.com/cr-earth/grafana
 klausmeyer/docker-registry-browser:1.7.2: registry.cn-hongkong.aliyuncs.com/cr-earth/docker-registry-browser
 minio/minio:RELEASE.2024-03-15T01-07-19Z-cpuv1: registry.cn-hongkong.aliyuncs.com/cr-earth/minio
