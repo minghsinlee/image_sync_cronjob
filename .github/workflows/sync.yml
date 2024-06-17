@@ -1,3 +1,5 @@
+- name: Checkout
+  uses: actions/checkout@v3
 - name: Image Sync Action
   uses: hhyasdf/image-sync-action@v1.1
   with:
@@ -6,5 +8,7 @@
     images_file: ./images.yaml
     #arch: amd64
     #os: linux
-    #proc: optional, default is 5
-    retries: #3
+    proc: 6 # optional, default is 5
+    retries: 3
+  env:
+    ALI_PASSWORD: ${{ secrets.ALI_PASSWORD }}
