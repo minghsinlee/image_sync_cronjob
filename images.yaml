@@ -1,1 +1,1 @@
-nginx: "registry.cn-zhangjiakou.aliyuncs.com/cr-earth/nginx"
+nginx:1.27.0: "registry.cn-zhangjiakou.aliyuncs.com/cr-earth/nginx"
