@@ -1,2 +1,2 @@
 nginx:latest,1.27.0: "registry.cn-hongkong.aliyuncs.com/cr-earth/nginx"
-apacherocketmq/rocketmq-dashboard:1.0.0: "registry.cn-hongkong.aliyuncs.com/cr-earth"
+apacherocketmq/rocketmq-dashboard:1.0.0: "registry.cn-hongkong.aliyuncs.com/cr-earth/rocketmq-dashboard"
