@@ -1,4 +1,4 @@
-#nginx:latest,1.27.0: "registry.cn-hongkong.aliyuncs.com/cr-earth/nginx"
+nginx:latest,1.27.0: "registry.cn-hongkong.aliyuncs.com/cr-earth/nginx"
 apacherocketmq/rocketmq-dashboard:1.0.0: registry.cn-hongkong.aliyuncs.com/cr-earth/rocketmq-dashboard
 openresty/openresty:1.25.3.1-2-bookworm-fat: registry.cn-hongkong.aliyuncs.com/cr-earth/openresty:1.25.3.1-2-bookworm-fat
 apache/rocketmq:5.2.0: registry.cn-hongkong.aliyuncs.com/cr-earth/rocketmq
