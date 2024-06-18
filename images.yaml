@@ -10,4 +10,4 @@ minio/minio:RELEASE.2024-03-15T01-07-19Z-cpuv1: registry.cn-hongkong.aliyuncs.co
 nacos/nacos-server:v2.1.0: registry.cn-hongkong.aliyuncs.com/cr-earth/nacos-server
 osixia/keepalived:2.0.20: registry.cn-hongkong.aliyuncs.com/cr-earth/keepalived
 prom/prometheus:v2.51.2: registry.cn-hongkong.aliyuncs.com/cr-earth/prometheus
-amir20/dozzle:latest,v7.0.6: registry.cn-hongkong.aliyuncs.com/cr-earth/dozzle
+amir20/dozzle:v7.0.6: registry.cn-hongkong.aliyuncs.com/cr-earth/dozzle
