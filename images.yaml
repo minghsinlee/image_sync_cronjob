@@ -11,3 +11,4 @@ nacos/nacos-server:v2.1.0: registry.cn-hongkong.aliyuncs.com/cr-earth/nacos-serv
 osixia/keepalived:2.0.20: registry.cn-hongkong.aliyuncs.com/cr-earth/keepalived
 prom/prometheus:v2.51.2: registry.cn-hongkong.aliyuncs.com/cr-earth/prometheus
 amir20/dozzle:v7.0.6: registry.cn-hongkong.aliyuncs.com/cr-earth/dozzle
+jenkins/jenkins:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/jenkins
