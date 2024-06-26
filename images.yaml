@@ -14,3 +14,5 @@ amir20/dozzle:v7.0.6: registry.cn-hongkong.aliyuncs.com/cr-earth/dozzle
 jenkins/jenkins:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/jenkins
 cnrancher/kube-explorer:v0.4.0: registry.cn-hongkong.aliyuncs.com/cr-earth/kube-explorer
 willfarrell/autoheal:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/autoheal
+gitea/gitea:1.22.0: registry.cn-hongkong.aliyuncs.com/cr-earth/gitea
+gitea/gitea:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/gitea
