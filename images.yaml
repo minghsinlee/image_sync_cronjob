@@ -18,3 +18,4 @@ willfarrell/autoheal:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/autoheal
 gitea/gitea:1.22.0: registry.cn-hongkong.aliyuncs.com/cr-earth/gitea
 gitea/gitea:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/gitea
 traefik/whoami:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/whoami
+busybox:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/busybox
