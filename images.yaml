@@ -20,3 +20,5 @@ gitea/gitea:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/gitea
 traefik/whoami:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/whoami
 busybox:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/busybox
 rockylinux:8.9: registry.cn-hongkong.aliyuncs.com/cr-earth/rockylinux
+coredns/coredns:1.11.1: registry.cn-hongkong.aliyuncs.com/cr-earth/coredns
+coredns/coredns:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/coredns
