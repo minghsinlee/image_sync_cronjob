@@ -18,6 +18,4 @@ gitea/gitea:1.22.0,latest: registry.cn-hongkong.aliyuncs.com/cr-earth/gitea
 traefik/whoami:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/whoami
 busybox:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/busybox
 rockylinux:8.9: registry.cn-hongkong.aliyuncs.com/cr-earth/rockylinux
-coredns/coredns:1.11.1: registry.cn-hongkong.aliyuncs.com/cr-earth/coredns
-coredns/coredns:latest: registry.cn-hongkong.aliyuncs.com/cr-earth/coredns
-budtmo/docker-android:emulator_12.0: registry.cn-hongkong.aliyuncs.com/cr-earth/docker-android:emulator_12.0
+coredns/coredns:1.11.1,latest: registry.cn-hongkong.aliyuncs.com/cr-earth/coredns
