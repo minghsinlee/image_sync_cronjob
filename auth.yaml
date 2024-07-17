@@ -1,6 +1,6 @@
 registry.cn-zhangjiakou.aliyuncs.com:
   username: minghsinlee
   password: ${ALI_PASSWORD}
-registry.cn-hongkong.aliyuncs.com:
+registry.cn-beijing.aliyuncs.com:
   username: minghsinlee
   password: ${ALI_PASSWORD}
